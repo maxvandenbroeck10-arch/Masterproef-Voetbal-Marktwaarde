@@ -794,9 +794,3 @@ except AttributeError:
     stargazer.show_precision = 3 
 
 display(HTML(stargazer.render_html()))
-
-
-
-
-
-
